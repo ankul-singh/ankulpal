@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @ankulpal
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-ankulpal/ankulpal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Short professional introduction
+MCA student
+SAP ABAP / Java / Data Analytics / AWS interests
+Technical skills
+Projects
+Tools & technologies
+Education
+Contact / LinkedIn
